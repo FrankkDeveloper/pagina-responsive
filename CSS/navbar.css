@@ -1,0 +1,12 @@
+.bg{
+    background-color: #d63031;
+}
+
+.nav-item a {
+    text-decoration: none !important;
+    color: white;
+}
+
+.nav-item a:hover {
+    color: #e4a24d;
+}
